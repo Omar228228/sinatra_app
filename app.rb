@@ -2,7 +2,7 @@ require 'sinatra'
 
 # Головна сторінка
 get '/' do
-  "<h1>Привіт, світ!</h1><p>Це простий застосунок Sinatra, розгорнутий через Ansible.</p>"
+  "<h1>Привіт, світ! Updated code from git repository.</h1><p>Це простий застосунок Sinatra, розгорнутий через Ansible.</p>"
 end
 
 # Сторінка "Про нас"
